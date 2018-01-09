@@ -18,3 +18,17 @@ library('MASS')
 Method:
 =============
 Logistic Regression with K-fold Cross Validation
+
+Result:
+=============
+
+| Result Table | |
+| ------------- | ------------- |
+| Accuracy  | 0.7597 |
+| 95% CI  | (0.754, 0.7654)  |
+| No Information Rate  | 0.7518    |
+| P-Value [Acc > NIR]  | 0.003157  |
+| Kappa  | 0.1257    |
+| ------------- | ------------- |
+| Sensitivity  |  0.9702   |
+| Specificity  | 0.1224   |
